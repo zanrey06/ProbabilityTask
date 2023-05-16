@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\probability\probability\bin\Debug\net6.0\probability.exe
+C:\Users\PC\source\repos\probability\probability\bin\Debug\net6.0\probability.deps.json
+C:\Users\PC\source\repos\probability\probability\bin\Debug\net6.0\probability.runtimeconfig.json
+C:\Users\PC\source\repos\probability\probability\bin\Debug\net6.0\probability.dll
+C:\Users\PC\source\repos\probability\probability\bin\Debug\net6.0\probability.pdb
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\probability.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\probability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\probability.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\probability.AssemblyInfo.cs
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\probability.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\probability.dll
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\refint\probability.dll
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\probability.pdb
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\probability.genruntimeconfig.cache
+C:\Users\PC\source\repos\probability\probability\obj\Debug\net6.0\ref\probability.dll
